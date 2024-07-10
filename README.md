@@ -20,7 +20,7 @@ DIOToken é um contrato inteligente baseado no padrão ERC-20. Ele implementa um
 1. Clone o repositório:
     ```sh
     git clone https://github.com/mario-evangelista/token-padrao-web3.git
-    cd DIOToken
+    cd token-padrao-web3
     ```
 
 2. Instale as dependências (se estiver usando Hardhat):
